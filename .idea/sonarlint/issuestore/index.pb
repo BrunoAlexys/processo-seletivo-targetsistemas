@@ -27,3 +27,5 @@ n
 >src/main/java/br/com/desafios/terceiro/SequenciaQuadrados.java,0\4\046cd23f346c2fa34ac7bc80d8d67a7c69a4ae07
 {
 Ksrc/main/java/br/com/desafios/terceiro/SequenciaQuadradosMultiplicados.java,3\c\3cf7f2e52496942f0cf71ee4b0e993b112a26efc
+p
+@src/main/java/br/com/desafios/quarto/DescobrirInterruptores.java,e\d\edbb505c81949deb5f4e1f69d8702bf111c4f9ef
