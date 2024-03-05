@@ -10,12 +10,12 @@ public class DescobrirInterruptores {
 
         boolean[] interruptores = new boolean[numInterruptores];
 
-        toggleInterruptores(interruptores);
+        alternarInterruptores(interruptores);
 
         verificarLampadas(interruptores);
     }
 
-    public static void toggleInterruptores(boolean[] interruptores) {
+    public static void alternarInterruptores(boolean[] interruptores) {
         System.out.println("Primeira tentativa: Ligar todos os interruptores");
         for (int i = 0; i < interruptores.length; i++) {
             interruptores[i] = true;
