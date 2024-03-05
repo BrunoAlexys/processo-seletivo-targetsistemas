@@ -17,3 +17,13 @@ l
 <src/main/java/br/com/desafios/segundo/CalcularFibonacci.java,c\9\c9033904f0cfe9f2d6cb8a6b46c0f93418b36441
 d
 4src/main/java/br/com/desafios/segundo/Sequencia.java,8\f\8fc3c552c65dde062eae060f58cfd742c28025aa
+e
+5src/main/java/br/com/desafios/terceiro/Sequencia.java,f\7\f75d3b4efa9b196fffdaa4c69713a90b563655e5
+p
+@src/main/java/br/com/desafios/terceiro/SequenciaAritimetica.java,b\1\b1893c68149391c2c6d04c4957c8bb375659bf8a
+o
+?src/main/java/br/com/desafios/terceiro/SequenciaGeometrica.java,3\0\30b612fd926a5cad650a9c9d84cafc1dac4b621e
+n
+>src/main/java/br/com/desafios/terceiro/SequenciaQuadrados.java,0\4\046cd23f346c2fa34ac7bc80d8d67a7c69a4ae07
+{
+Ksrc/main/java/br/com/desafios/terceiro/SequenciaQuadradosMultiplicados.java,3\c\3cf7f2e52496942f0cf71ee4b0e993b112a26efc
