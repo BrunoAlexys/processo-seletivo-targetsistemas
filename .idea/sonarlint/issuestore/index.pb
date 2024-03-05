@@ -29,3 +29,5 @@ n
 Ksrc/main/java/br/com/desafios/terceiro/SequenciaQuadradosMultiplicados.java,3\c\3cf7f2e52496942f0cf71ee4b0e993b112a26efc
 p
 @src/main/java/br/com/desafios/quarto/DescobrirInterruptores.java,e\d\edbb505c81949deb5f4e1f69d8702bf111c4f9ef
+h
+8src/main/java/br/com/desafios/quinto/InverterString.java,7\0\70734f2dcc9b632c33e8d277548eecb7dbf05d31
